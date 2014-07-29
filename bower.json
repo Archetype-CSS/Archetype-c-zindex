@@ -1,6 +1,6 @@
 {
   "name": "Archetype-c-zindex",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Sam Ashley",
   "main": "_c-zindex.scss",
   "ignore": [
