@@ -3,17 +3,6 @@
  *
  */
 /**
- * Archetype Page Component
- *
- * simple function to retrieve zindex value ($z) from $zindex map
- * $zinex set in `_c-zindex.scss`
- *
- * Gist: http://sassmeister.com/gist/7e097539fb84c5494b97
- *
- * source: http://css-tricks.com/handling-z-index/
- * see also: http://www.smashingmagazine.com/2014/06/12/sassy-z-index-management-for-complex-layouts/
- */
-/**
  * Component Constructor
  *
  * Used to provide a means for overriding default styles without redundant output
@@ -41,30 +30,39 @@
 /**
  * Archetype Page Component
  *
+ * simple function to retrieve zindex value ($z) from $zindex map
+ * $zindex set in `_c-zindex.scss`
+ *
+ * source: http://css-tricks.com/handling-z-index/
+ * see also: http://www.smashingmagazine.com/2014/06/12/sassy-z-index-management-for-complex-layouts/
+ */
+/**
+ * Archetype Page Component
+ *
  * source: http://css-tricks.com/handling-z-index/
  */
 /**
  * example test class
  */
-/* line 11, ../sass/zindex.scss */
+/* line 12, ../sass/zindex.scss */
 .test__c-zindex--red {
   position: relative;
   z-index: 9000;
 }
 
-/* line 16, ../sass/zindex.scss */
+/* line 17, ../sass/zindex.scss */
 .test__c-zindex--blue {
   position: relative;
   z-index: 7000;
 }
 
-/* line 21, ../sass/zindex.scss */
+/* line 22, ../sass/zindex.scss */
 .test__c-zindex--green {
   position: relative;
   z-index: 6000;
 }
 
-/* line 26, ../sass/zindex.scss */
+/* line 27, ../sass/zindex.scss */
 .test__c-zindex--yellow {
   position: relative;
   z-index: 5000;

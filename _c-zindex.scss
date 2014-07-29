@@ -8,8 +8,6 @@
  * see also: http://www.smashingmagazine.com/2014/06/12/sassy-z-index-management-for-complex-layouts/
  */
 
-@import 'bower_components/Archetype-u-componentConstructor/_u-componentConstructor';
-
 @function zindex($z) {
   @if not map-has-key($zindex, $z) {
     @warn "No z-index found in $zindex map for `#{$z}`. Property omitted.";
