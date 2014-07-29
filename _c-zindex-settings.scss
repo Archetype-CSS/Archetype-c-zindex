@@ -1,0 +1,13 @@
+/**
+ * Archetype Page Component
+ *
+ * source: http://css-tricks.com/handling-z-index/
+ */
+$zindex: (
+  header        : 9000,
+  nav           : 8000,
+  mainContent   : 7000,
+  aside         : 6000,
+  footer        : 5000
+);
+
