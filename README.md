@@ -1,4 +1,4 @@
-# Archetype-c-zindex [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-c-zindex.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-c-zindex) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# Archetype-c-zindex [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-c-zindex.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-c-zindex) [![Dependency Status](https://gemnasium.com/Archetype-CSS/Archetype-c-zindex.svg)](https://gemnasium.com/Archetype-CSS/Archetype-c-zindex) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Archetype component for managing complex stacking contexts with z-index
 
