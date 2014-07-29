@@ -1,0 +1,33 @@
+/**
+ * Test: Archetype-c-zindex
+ *
+ */
+@import '../../_c-zindex.scss';
+@import '../../_c-zindex-settings.scss';
+
+/**
+ * example test class
+ */
+.test__c-zindex--red {
+  position: relative;
+  z-index: zindex(header);
+}
+
+.test__c-zindex--blue {
+  position: relative;
+  z-index: zindex(mainContent);
+}
+
+.test__c-zindex--green {
+  position: relative;
+  z-index: zindex(aside);
+}
+
+.test__c-zindex--yellow {
+  position: relative;
+  z-index: zindex(footer);
+}
+
+
+
+
